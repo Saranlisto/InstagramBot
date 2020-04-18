@@ -1,3 +1,6 @@
+# Created By : Saran Mahadevan
+# Last Modified : April 18, 2020
+
 from selenium import webdriver
 from time import sleep
 from secrets import password
